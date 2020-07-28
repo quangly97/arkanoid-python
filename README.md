@@ -1,5 +1,5 @@
 # Arkanoid Game
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:111.39%;position:relative;"><iframe width="360" height="401" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/49mwvu"></iframe></div><p><a href="https://imgflip.com/gif/49mwvu">via Imgflip</a></p></div>
+<a href="https://imgflip.com/gif/49mwvu"><img src="https://imgflip.com/gif/49mwvu" title="made at imgflip.com"/></a>
 
 ## Brief
 An arkanoid game implemented with python and its pygame library.
